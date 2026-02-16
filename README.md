@@ -1,6 +1,6 @@
-# 📱 Phone Addiction Level Prediction (ML Project)
+## 📱 Phone Addiction Level Prediction (ML Project)
 
-## 📌 Problem Statement
+### 📌 Problem Statement
 This project predicts the level of phone addiction (numeric score) based on user behavior and screen-time features.
 
 ## 🛠 Tech Stack
