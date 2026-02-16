@@ -3,7 +3,7 @@
 ### 📌 Problem Statement
 This project predicts the level of phone addiction (numeric score) based on user behavior and screen-time features.
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 - Python
 - Pandas
 - NumPy
@@ -11,15 +11,15 @@ This project predicts the level of phone addiction (numeric score) based on user
 - XGBoost
 - Matplotlib
 
-## 🤖 Model Used
+### 🤖 Model Used
 - XGBoost Regressor
 
-## 📊 Evaluation Metrics
+### 📊 Evaluation Metrics
 - Mean Absolute Error (MAE)
 - Mean Squared Error (MSE)
 - R² Score
 
-## 📈 Features Used
+### 📈 Features Used
 - Daily screen time
 - Social media usage
 - Sleep hours
